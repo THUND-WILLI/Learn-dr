@@ -7,8 +7,8 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = 7684791702:AAEaYMH0cqq_e9gZKyaO-0QLOoV0Aq_Yfi0
-const id = 5193860202
+const token = '7684791702:AAEaYMH0cqq_e9gZKyaO-0QLOoV0Aq_Yfi0'
+const id = '5193860202'
 const address = 'https://skribbl.io'
 
 const app = express();
